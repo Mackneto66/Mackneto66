@@ -10,8 +10,6 @@ Soy un desarrollador mobile apasionado por crear aplicaciones excepcionales con 
 
 **Mobile Development:**
 - 📱 Flutter & Dart (Principal)
-- 🍎 Swift (iOS)
-- 🤖 Kotlin & Java (Android)
 
 **Arquitectura & Patrones:**
 - 🏗️ Clean Architecture
@@ -19,17 +17,8 @@ Soy un desarrollador mobile apasionado por crear aplicaciones excepcionales con 
 - 🎯 MVVM
 - 📐 Patrones de Diseño
 
-**Backend & APIs:**
-- 🌐 Node.js & Express
-- 🔥 Firebase
-- 📡 REST APIs
-- 🔗 GraphQL
-- 🗄️ MongoDB
-
 **Metodologías:**
 - ⚡ Scrum & Kanban
-- 🔀 Git Flow
-- ✅ TDD (Test Driven Development)
 - 📝 Código Limpio
 
 ### 🎯 Experiencia
